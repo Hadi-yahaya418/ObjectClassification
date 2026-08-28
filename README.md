@@ -1,4 +1,4 @@
-Absolutely. Since this is an **image object-detection project using Transformers.js and DETR**, here's a solid README you can put directly in your GitHub repository.
+
 
 # 🖼️ Image Object Detection with Transformers.js
 
